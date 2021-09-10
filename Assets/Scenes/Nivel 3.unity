@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 336decf73afc7ca479bd748457015913, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 1
   disparo: {fileID: 5303667721059556423, guid: a600c798a3a6f0643a4b691d8f9c5ab1, type: 3}
   fireRate: 0.5
   metralleta: {fileID: 2641515817945832974, guid: d992529a524918b43bac87b15ba8cc60, type: 3}
